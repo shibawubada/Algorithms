@@ -3,8 +3,9 @@
 ### Median of three sort
 ### QuickInsertionSort
 ### QuickSort
+------------------------------------------------------------------------------------
 ### Threeway Quicksort
-## Implementation of doubly linked list and binary search tree and operations on.
+## Implementation of DoublyLinkedList and BinarySearchTree
 ### add, remove, isElement, setSize
 ### postOrderUnion, PostOrderIntersection
 #### implemented using generics
